@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GitTest : MonoBehaviour
 {
-    // Start is called before the first frame update
+    //이부분을 수정한다면?
     void Start()
     {
         
